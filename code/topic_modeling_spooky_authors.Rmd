@@ -316,7 +316,7 @@ corpus.MWS = tm_map(corpus.MWS, removePunctuation)
 corpus.MWS = tm_map(corpus.MWS, removeNumbers)
 corpus.MWS = tm_map(corpus.MWS, stripWhitespace)
 
-tdm_HPL = TermDocumentMatrix(corpus.MWS)
+tdm_MWS = TermDocumentMatrix(corpus.MWS)
 fr_MWS = rowSums(as.matrix(tdm_MWS))
 ```
 
