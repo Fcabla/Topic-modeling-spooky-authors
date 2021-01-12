@@ -1,7 +1,9 @@
 # Topic-modeling-spooky-authors
 Hands-on for Intelligent systems
 
-Data from kaggle competition: https://www.kaggle.com/c/spooky-author-identification
+The problem to be solved in this natural language processing project is to discover possible abstract themes that occur in a collection of documents. Topic modeling is a very useful tool when trying to discover hidden semantic structures in texts.
+The dataset to be used contains excerpts from horror novels by authors Edgar Allan Poe (EAP), Mary Shelley (MWS), and HP Lovecraft (HPL). This dataset comes from a competition in 2017 on the popular Kaggle web community, it can be found at the following web URL:
+https://www.kaggle.com/c/spooky-author-identification
 
 Libraries used:
   - tm
