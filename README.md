@@ -27,3 +27,6 @@ R source code under the folder code.
 - topic_modeling_spooky_authors_notebook.html: notebook as html file
 
 - topic_modeling_spooky_authors_report.pdf: report pdf
+
+- topic_modeling_spooky_authors_notebook.pdf: notebook as pdf
+
